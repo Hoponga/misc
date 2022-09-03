@@ -1,0 +1,1 @@
+curl -X POST -d 'dataType=LIDFIXESWAYPOINTS&start=$((1000*$i))&length=1000&sortcolumn=fix_identifier&sortdir=asc&searchval=&r=ctY7eRIu0G5QZIOFxND0d4so' https://nfdc.faa.gov/nfdcApps/controllers/PublicDataController/getLidData
